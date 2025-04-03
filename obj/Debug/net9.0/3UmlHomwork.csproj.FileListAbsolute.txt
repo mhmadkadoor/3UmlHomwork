@@ -1,0 +1,14 @@
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\obj\Debug\net9.0\3UmlHomwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\obj\Debug\net9.0\3UmlHomwork.AssemblyInfoInputs.cache
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\obj\Debug\net9.0\3UmlHomwork.AssemblyInfo.cs
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\obj\Debug\net9.0\3UmlHomwork.csproj.CoreCompileInputs.cache
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\bin\Debug\net9.0\3UmlHomwork.exe
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\bin\Debug\net9.0\3UmlHomwork.deps.json
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\bin\Debug\net9.0\3UmlHomwork.runtimeconfig.json
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\bin\Debug\net9.0\3UmlHomwork.dll
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\bin\Debug\net9.0\3UmlHomwork.pdb
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\obj\Debug\net9.0\3UmlHomwork.dll
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\obj\Debug\net9.0\refint\3UmlHomwork.dll
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\obj\Debug\net9.0\3UmlHomwork.pdb
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\obj\Debug\net9.0\3UmlHomwork.genruntimeconfig.cache
+C:\Users\mhmad\OneDrive\سطح المكتب\OOP homworks\3UmlHomwork\obj\Debug\net9.0\ref\3UmlHomwork.dll
